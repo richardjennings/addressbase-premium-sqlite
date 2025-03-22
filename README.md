@@ -7,8 +7,8 @@ product.
 
 Unverified - pre-alpha
 
--[x] Delivery Point Address Table
--[ ] Other Data Types
+- [x] Delivery Point Address Table
+- [ ] Other Data Types
 
 ## Run
 
